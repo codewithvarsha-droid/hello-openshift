@@ -1,0 +1,16 @@
+{
+  "name": "hello-openshift",
+  "version": "1.0.0",
+  "description": "A simple Node.js web application for Red Hat OpenShift",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "openshift",
+    "nodejs",
+    "cloud"
+  ],
+  "author": "",
+  "license": "ISC"
+}
